@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9bacb6b-084f-4464-8228-d1a181fb41cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1erU159pJntvDTFFN0EJx6xs5MA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.04-You_either_know_XOR_you_dont">
+    <configuration name="01-XOR_Starter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CryptoHackStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/General/XOR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/General/XOR/01-XOR_Starter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02-XOR_Properties" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CryptoHackStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/General/XOR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/General/XOR/02-XOR_Properties.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03-Favourite_byte" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CryptoHackStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/General/XOR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/General/XOR/03-Favourite_byte.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04-You_either_know_XOR_you_dont" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CryptoHackStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/General/XOR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/General/XOR/04-You_either_know_XOR_you_dont.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05-EncodingChallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CryptoHackStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/General/Encoding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/General/Encoding/05-EncodingChallenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.04-You_either_know_XOR_you_dont" />
+        <item itemvalue="Python.03-Favourite_byte" />
+        <item itemvalue="Python.02-XOR_Properties" />
+        <item itemvalue="Python.01-XOR_Starter" />
+        <item itemvalue="Python.05-EncodingChallenge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9bacb6b-084f-4464-8228-d1a181fb41cd" name="Default Changelist" comment="" />
+      <created>1595078986783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595078986783</updated>
+      <workItem from="1595078988137" duration="15051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="192" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595080502180">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="192" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1474.864@0.0.1474.864" timestamp="1595080502180" />
+    <state x="546" y="186" key="#xdebugger.XInspectDialog" timestamp="1595081826119">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="546" y="186" key="#xdebugger.XInspectDialog/0.0.1474.864@0.0.1474.864" timestamp="1595081826119" />
+    <state width="1431" height="277" key="GridCell.Tab.0.bottom" timestamp="1595191756499">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1595191756499" />
+    <state width="1431" height="277" key="GridCell.Tab.0.center" timestamp="1595191756499">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1595191756499" />
+    <state width="1431" height="277" key="GridCell.Tab.0.left" timestamp="1595191756499">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1595191756499" />
+    <state width="1431" height="277" key="GridCell.Tab.0.right" timestamp="1595191756499">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1595191756499" />
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom" timestamp="1595191756499">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom/0.0.1474.864@0.0.1474.864" timestamp="1595191756499" />
+    <state width="1431" height="277" key="GridCell.Tab.1.center" timestamp="1595191756499">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.center/0.0.1474.864@0.0.1474.864" timestamp="1595191756499" />
+    <state width="1431" height="277" key="GridCell.Tab.1.left" timestamp="1595191756499">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.left/0.0.1474.864@0.0.1474.864" timestamp="1595191756499" />
+    <state width="1431" height="277" key="GridCell.Tab.1.right" timestamp="1595191756499">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.right/0.0.1474.864@0.0.1474.864" timestamp="1595191756499" />
+    <state x="246" y="76" key="SettingsEditor" timestamp="1595080388831">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="246" y="76" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1595080388831" />
+    <state x="375" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1595186676718">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="375" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1474.864@0.0.1474.864" timestamp="1595186676718" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CryptoHackStuff$01_XOR_Starter.coverage" NAME="01-XOR_Starter Coverage Results" MODIFIED="1595186069420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Challenges/General/XOR" />
+    <SUITE FILE_PATH="coverage/CryptoHackStuff$01_ASCII.coverage" NAME="01-ASCII Coverage Results" MODIFIED="1595079396101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Challenges/General/Encoding" />
+    <SUITE FILE_PATH="coverage/CryptoHackStuff$04_BytesAndBigIntegers.coverage" NAME="04-BytesAndBigIntegers Coverage Results" MODIFIED="1595080780000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Challenges/General/Encoding" />
+    <SUITE FILE_PATH="coverage/CryptoHackStuff$05_EncodingChallenge.coverage" NAME="05-EncodingChallenge Coverage Results" MODIFIED="1595185355759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Challenges/General/Encoding" />
+    <SUITE FILE_PATH="coverage/CryptoHackStuff$02_Hex.coverage" NAME="02-Hex Coverage Results" MODIFIED="1595079601375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Challenges/General/Encoding" />
+    <SUITE FILE_PATH="coverage/CryptoHackStuff$03_Base64.coverage" NAME="03-Base64 Coverage Results" MODIFIED="1595079829527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Challenges/General/Encoding" />
+    <SUITE FILE_PATH="coverage/CryptoHackStuff$02_XOR_Properties.coverage" NAME="02-XOR_Properties Coverage Results" MODIFIED="1595189188216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Challenges/General/XOR" />
+    <SUITE FILE_PATH="coverage/CryptoHackStuff$03_Favourite_byte.coverage" NAME="03-Favourite_byte Coverage Results" MODIFIED="1595190468183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Challenges/General/XOR" />
+    <SUITE FILE_PATH="coverage/CryptoHackStuff$04_You_either_know_XOR_you_dont.coverage" NAME="04-You_either_know_XOR_you_dont Coverage Results" MODIFIED="1595191258522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Challenges/General/XOR" />
+  </component>
+</project>
